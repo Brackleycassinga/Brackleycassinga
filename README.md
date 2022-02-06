@@ -1,11 +1,12 @@
 ### Hi there 👋
+###My name isBrackley cassinga ,aSoftware engineer and hardware geek from Congo.
 
 <!--
 **Brackleycassinga/Brackleycassinga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+##🔭 I’m currently working on a secret big project whihch will change the world 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
