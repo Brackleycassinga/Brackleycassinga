@@ -22,5 +22,5 @@
 <li><a href="">Fauna APi</a></li>
 <li><a href="">Docker</a></li>
 <li><a href="">Kubernetes</a></li>
-<li><a href="">Embbed system</a></li>
+<li><a href="">Embbed systems(Raspberry pi,Arduino, Pic microcontroller,etc...)</a></li>
 <li><a href="">GSM deloployment</a></li>
