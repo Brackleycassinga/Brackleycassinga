@@ -15,6 +15,7 @@
 <li>⚡ Fun fact: I almost went professional on kickboxing.</li>
 <h2>🔧 Tools I Like To Use</h2>
 <li><a href="">React</a></li>
+<li><a href="">Go lang</a></li>
 <li><a href="">React Native</a></li>
 <li><a href="">TypeScript</a></li>
 <li><a href="">Material UI</a></li>
