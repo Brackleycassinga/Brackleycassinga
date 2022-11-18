@@ -7,7 +7,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Brackleycassinga&show_icons=true&theme=radical&count_private=true)
 
 <h2>About Me</h2>
-🔭 I’m currently working on: Building a scret project that will change the world of connectivity.
+🔭 I’m currently working on: Building a secret project that will change the world of connectivity.
 <li>🌱 I’m currently learning: 3D modeling in Fusion and Go lang.</li>
 <li>🤔 What I want to learn next: Learn more about embedded systems firmware development .</li>
 <li>📫 How to reach me: pcassinga@gmail.com.com</li>
