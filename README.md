@@ -1,6 +1,6 @@
 
 Software Engineer
-
+<br/>
 Email: pcassinga@email.com
 
 Location: Kigali/Rwanda
