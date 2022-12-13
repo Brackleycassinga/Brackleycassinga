@@ -3,7 +3,9 @@ Software Engineer
 
 <hr /> 
 
-Email: pcassinga@email.com
+``Email: pcassinga@email.com``
+
+<hr /> 
 
 Location: Kigali/Rwanda
 
