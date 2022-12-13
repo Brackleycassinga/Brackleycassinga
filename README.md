@@ -8,7 +8,7 @@
 
 <h2>About Me</h2>
 🔭 I’m currently working on: Building a secret project that will change the world of connectivity.
-<li>🌱 I’m currently learning: 3D modeling in Fusion and Go lang.</li>
+<li>🌱 I’m currently learning: 3D modeling using Fusion and Go lang to build could apps.</li>
 <li>🤔 What I want to learn next: Learn more about embedded systems firmware development .</li>
 <li>📫 How to reach me: pcassinga@gmail.com.com</li>
 <li>😄 Pronouns: he/him</li>
