@@ -1,8 +1,18 @@
-<h1>Brackley Casinga</h1>
 
-👋 Hi there ,
+Software Engineer
 
- I'm Brackley. I am a Software Engineer at [Ukama](https://www.ukama.com/) .Our mission is to connect the unconnected. I Previously worked at La Difference and Altech as front end dev.
+Email: brackleycasinga@email.com
+
+Location: Democratic Republic of Congo currently residing in Kigali/Rwanda
+
+I am a software engineer with over 5 years of experience building user interfaces and web services. I am proficient in Typescript, JavaScript, React, and other front-end frameworks. I have worked for several companies, including XYZ Corporation and ABC Corporation, where I developed and maintained software applications. I am currently working for Ukama as a software engineer, building web services in Go Lang.
+
+My projects on GitHub include:
+
+Project 1: A web application built with React and Redux, which allows users to search for and save their favorite movies.
+Project 2: A command-line tool written in Go Lang, which allows users to generate random passwords with customizable options.
+Project 3: A library written in Typescript, which provides utility functions for working with dates and times.
+I am always looking for new opportunities to learn and grow as a developer. If you have any questions or would like to collaborate, please feel free to contact me.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Brackleycassinga&show_icons=true&theme=radical&count_private=true)
 
