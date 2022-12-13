@@ -1,7 +1,7 @@
 
 Software Engineer
 
-Email: brackleycasinga@email.com
+Email: pcassinga@email.com
 
 Location: Democratic Republic of Congo currently residing in Kigali/Rwanda
 
